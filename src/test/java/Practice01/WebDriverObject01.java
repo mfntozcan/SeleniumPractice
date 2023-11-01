@@ -10,6 +10,7 @@ public class WebDriverObject01 {
 
         WebDriver driver = new ChromeDriver();
         driver.close();
+        System.out.println();
 
 
 
