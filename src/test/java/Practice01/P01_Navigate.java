@@ -51,6 +51,7 @@ public class P01_Navigate {
 
 // And last step : print "ALL OK" on console
         System.out.println("ALL OK");
+        System.out.println();
 
 
 
