@@ -9,6 +9,7 @@ public class WebDriverObject03 {
        WebDriver driver = new ChromeDriver();//Selenim 4.6 sonrasi direkt WebDriver objesi olusturulabilir.
         driver.get("https://google.com");
         driver.quit();
+        System.out.println();
 
     }
 }
