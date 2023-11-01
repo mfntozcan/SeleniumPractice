@@ -78,5 +78,6 @@ public class P02_TitleTest {
 
 //Close the browser
         driver.quit();
+        System.out.println();
     }
 }
